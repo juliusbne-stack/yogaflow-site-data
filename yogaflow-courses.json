@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-04-20T19:21:37.229Z",
+  "syncedAt": "2026-04-20T20:49:00.766Z",
   "courses": [
     {
       "id": "386dcb69-67d7-422d-9ad1-f63492bb9a90",
@@ -140,20 +140,6 @@
       "remainingSpots": 7,
       "sortOrder": 100,
       "startsOn": "2026-06-03"
-    },
-    {
-      "id": "bb75ddba-f0f9-402f-a321-8ab7c6de036a",
-      "type": "internal",
-      "title": "Test",
-      "description": "Hallo! Ich bin ein Test",
-      "day": "06.09.2026",
-      "time": "19:00–20:00 (60 Min.)",
-      "location": "Neuss",
-      "bookingStatus": "available",
-      "price": "50,00 €",
-      "remainingSpots": 8,
-      "sortOrder": 110,
-      "startsOn": "2026-09-06"
     }
   ]
 }
