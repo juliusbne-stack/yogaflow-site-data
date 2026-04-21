@@ -1,20 +1,6 @@
 {
-  "syncedAt": "2026-04-21T17:06:42.737Z",
+  "syncedAt": "2026-04-21T19:17:11.014Z",
   "courses": [
-    {
-      "id": "386dcb69-67d7-422d-9ad1-f63492bb9a90",
-      "type": "internal",
-      "title": "Yoga am Dienstag",
-      "description": "Vinyasa für Fortgeschrittene",
-      "day": "21.04.2026",
-      "time": "18:00–19:30 (90 Min.)",
-      "location": "Gagelweg",
-      "bookingStatus": "full",
-      "price": "12,00 €",
-      "remainingSpots": 0,
-      "sortOrder": 10,
-      "startsOn": "2026-04-21"
-    },
     {
       "id": "986b858c-7304-4ee9-a502-f6c0645b669b",
       "type": "internal",
@@ -26,8 +12,22 @@
       "bookingStatus": "available",
       "price": "12,00 €",
       "remainingSpots": 2,
-      "sortOrder": 20,
+      "sortOrder": 10,
       "startsOn": "2026-04-22"
+    },
+    {
+      "id": "f711888c-86d9-43b9-8463-b11883c25cc7",
+      "type": "internal",
+      "title": "Test2",
+      "description": "Ich bin ein Test",
+      "day": "23.04.2026",
+      "time": "19:45–20:45 (60 Min.)",
+      "location": "Wunderland",
+      "bookingStatus": "available",
+      "price": "50,00 €",
+      "remainingSpots": 1,
+      "sortOrder": 20,
+      "startsOn": "2026-04-23"
     },
     {
       "id": "7e66e6f3-c63a-42ba-95e4-ea201ebb7e9e",
@@ -137,7 +137,7 @@
       "location": "Neuss",
       "bookingStatus": "available",
       "price": "12,00 €",
-      "remainingSpots": 7,
+      "remainingSpots": 6,
       "sortOrder": 100,
       "startsOn": "2026-06-03"
     }
