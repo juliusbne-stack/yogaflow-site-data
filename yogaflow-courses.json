@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-04-22T05:28:58.585Z",
+  "syncedAt": "2026-04-22T07:53:25.434Z",
   "courses": [
     {
       "id": "986b858c-7304-4ee9-a502-f6c0645b669b",
@@ -95,7 +95,7 @@
       "location": "Gagelweg",
       "bookingStatus": "available",
       "price": "12,00 €",
-      "remainingSpots": 4,
+      "remainingSpots": 3,
       "sortOrder": 70,
       "startsOn": "2026-05-26"
     },
@@ -109,7 +109,7 @@
       "location": "Gagelweg",
       "bookingStatus": "available",
       "price": "12,00 €",
-      "remainingSpots": 3,
+      "remainingSpots": 4,
       "sortOrder": 80,
       "startsOn": "2026-05-27"
     },
@@ -123,7 +123,7 @@
       "location": "Neuss",
       "bookingStatus": "available",
       "price": "12,00 €",
-      "remainingSpots": 6,
+      "remainingSpots": 5,
       "sortOrder": 90,
       "startsOn": "2026-06-03"
     }
